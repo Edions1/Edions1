@@ -6,7 +6,7 @@
 > Loading Cybersecurity Modules...
 > Establishing Secure Connection...
 > STATUS: ONLINE
-```
+````
 
 ## 🕶️ DevSecOps | Cybersecurity | Linux | Automation
 
@@ -23,9 +23,10 @@ Profile:
 ```
 
 Meu nome é Edion
-````
 
-=============================================================================================================================
+```
+```
+
 
 ## DevSecOps | Cybersecurity | Infraestrutura | Automação
 
