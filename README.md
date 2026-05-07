@@ -1,4 +1,4 @@
-````md id="j1m0w4"
+````md id="x3rqcl"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=EDION.exe&fontSize=55&fontAlignY=40&color=0:0d1117,100:00ff99&desc=DevSecOps%20|%20Cybersecurity%20|%20Linux&descAlignY=60&animation=fadeIn"/>
@@ -28,7 +28,7 @@
 
 # 🕶️ PROFILE.yaml
 
-```yaml
+```yaml id="jlwm3h"
 Name: Edion
 Alias: EDION.exe
 Location: Brazil
@@ -50,7 +50,7 @@ Status:
 
 # 💀 ABOUT_ME.sys
 
-```diff
+```diff id="uk6v7o"
 + Cybersecurity Enthusiast
 + Linux Infrastructure
 + Offensive & Defensive Security
@@ -67,7 +67,7 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # 🚀 CURRENTLY_LEARNING.sh
 
-```bash
+```bash id="mp7wb8"
 [+] DevSecOps
 [+] Docker & Containers
 [+] VPS Infrastructure
@@ -93,7 +93,7 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 <div align="center">
 
-# 📊 GITHUB METRICS
+# 📊 GITHUB STATS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
@@ -117,7 +117,7 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # ⚙️ ADVANCED METRICS
 
-<img src="https://metrics.lecoq.io/SEU_USUARIO?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&achievements=1&pagespeed=1&config.timezone=America/Sao_Paulo"/>
+<img src="https://metrics.lecoq.io/SEU_USUARIO?template=terminal&isocalendar=1&languages=1&habits=1&introduction=1&achievements=1&followup=1&topics=1&stars=1&config.timezone=America/Sao_Paulo" />
 
 </div>
 
@@ -125,7 +125,7 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # 🎓 EDUCATION & CERTIFICATIONS
 
-```yaml
+```yaml id="jlwm0m"
 Education:
   - Curso Superior em Cibersegurança
   - Pós-graduação em Cibersegurança
@@ -143,7 +143,7 @@ Certifications:
 
 ## 📡 CONNECTIVITY STATUS
 
-```bash
+```bash id="jlwm7l"
 > Secure connection established...
 > EDION.exe initialized successfully...
 ```
