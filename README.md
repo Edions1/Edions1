@@ -12,6 +12,25 @@
 
 </div>
 
+
+
+
+
+<div align="center">
+
+# 🌐 CONNECTIVITY_STATUS
+
+```bash
+> Secure satellite link established...
+> Cyber defense modules enabled...
+> EDION.exe initialized successfully...
+> Welcome to my profile...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,100:000000"/>
+
+</div>
+
 ---
 
 # 🛰️ SATELLITE_STATUS.sys
@@ -196,18 +215,3 @@ Certifications:
 ```
 
 ---
-
-<div align="center">
-
-# 🌐 CONNECTIVITY_STATUS
-
-```bash
-> Secure satellite link established...
-> Cyber defense modules enabled...
-> EDION.exe initialized successfully...
-> Welcome to my profile...
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,100:000000"/>
-
-</div>
