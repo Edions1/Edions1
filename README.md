@@ -50,8 +50,7 @@ Tenho me especializado em **Python**, utilizando a linguagem para automação, d
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud"/></a>
 </p>
----
-
+ 
 ## 🎓 Formação e Certificações
 
 - Pós-graduação em Sensoriamento Remoto
