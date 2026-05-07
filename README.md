@@ -1,9 +1,14 @@
-````md id="x3rqcl"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=EDION.exe&fontSize=55&fontAlignY=40&color=0:0d1117,100:00ff99&desc=DevSecOps%20|%20Cybersecurity%20|%20Linux&descAlignY=60&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist;DevSecOps+Engineer;Linux+Infrastructure;Python+Automation;Cloud+Security;Network+Defense;Always+Learning..." />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Edions1&color=00ff99&style=flat" />
+  <img src="https://img.shields.io/github/followers/Edions1?style=flat&color=00ff99" />
+  <img src="https://img.shields.io/github/stars/Edions1?style=flat&color=00ff99" />
+</p>
 
 </div>
 
@@ -21,14 +26,16 @@
 > Initializing DevSecOps matrix...
 > Establishing encrypted connection...
 > Threat monitoring enabled...
-> STATUS: ONLINE
-````
+> Firewall status: ACTIVE
+> Monitoring services: ONLINE
+> STATUS: OPERATIONAL
+```
 
 ---
 
 # 🕶️ PROFILE.yaml
 
-```yaml id="jlwm3h"
+```yaml
 Name: Edion
 Alias: EDION.exe
 Location: Brazil
@@ -39,35 +46,55 @@ Focus:
   - Linux Infrastructure
   - Python Automation
   - Cloud Security
-  - Network Security
+  - Network Defense
+
+Operating_System:
+  - Linux
+
+Languages:
+  - Python
+  - Bash
 
 Status:
   Learning: ACTIVE
   Collaboration: ENABLED
+  Security_Mode: ENFORCED
 ```
 
 ---
 
 # 💀 ABOUT_ME.sys
 
-```diff id="uk6v7o"
+```diff
 + Cybersecurity Enthusiast
 + Linux Infrastructure
 + Offensive & Defensive Security
 + Python Automation
-+ Hardening & Monitoring
++ Infrastructure Hardening
++ Monitoring & Observability
 + Continuous Learning Mindset
 ```
 
+> Focused on building secure infrastructures and offensive/defensive security environments.
+
 Minha busca constante por conhecimento me impulsiona a evoluir continuamente na área de tecnologia e segurança da informação.
 
-Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servidores Linux, automação com Python e monitoramento de infraestrutura.
+Atualmente, estou focado em:
+
+- Segurança ofensiva e defensiva
+- Hardening de servidores Linux
+- DevSecOps
+- Automação com Python
+- Monitoramento de infraestrutura
+- Containers e virtualização
+- Cloud Security
+- Observabilidade e análise de logs
 
 ---
 
 # 🚀 CURRENTLY_LEARNING.sh
 
-```bash id="mp7wb8"
+```bash
 [+] DevSecOps
 [+] Docker & Containers
 [+] VPS Infrastructure
@@ -76,6 +103,10 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 [+] Firewalls & Networking
 [+] MySQL & PostgreSQL
 [+] Zabbix Monitoring
+[+] Cloud Security
+[+] CI/CD Pipelines
+[+] Reverse Proxy
+[+] SIEM Concepts
 [+] QGIS & ArcGIS
 ```
 
@@ -85,7 +116,27 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # 🛠️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode,nginx&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 CYBERSECURITY DOMAINS
+
+| Area | Status |
+|------|------|
+| Linux Hardening | ACTIVE |
+| DevSecOps | ACTIVE |
+| Network Security | ACTIVE |
+| Cloud Security | LEARNING |
+| Threat Monitoring | ACTIVE |
+| Python Automation | ACTIVE |
+| Containers | ACTIVE |
+| Infrastructure Security | ACTIVE |
+| SIEM & Logs | LEARNING |
 
 </div>
 
@@ -95,9 +146,9 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # 📊 GITHUB STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edions1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edions1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -107,7 +158,7 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # 🔥 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edions1&theme=github-compact&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -117,15 +168,34 @@ Atualmente, estou focado em segurança ofensiva e defensiva, hardening de servid
 
 # ⚙️ ADVANCED METRICS
 
-<img src="https://metrics.lecoq.io/SEU_USUARIO?template=terminal&isocalendar=1&languages=1&habits=1&introduction=1&achievements=1&followup=1&topics=1&stars=1&config.timezone=America/Sao_Paulo" />
+<img src="./github-metrics.svg"/>
 
 </div>
 
 ---
 
+# 🧰 SECURITY TOOLKIT
+
+```bash
+[+] Linux
+[+] Docker
+[+] Git
+[+] Python
+[+] Bash
+[+] Nginx
+[+] MySQL
+[+] PostgreSQL
+[+] Zabbix
+[+] SSH
+[+] Firewall
+[+] VPS Infrastructure
+```
+
+---
+
 # 🎓 EDUCATION & CERTIFICATIONS
 
-```yaml id="jlwm0m"
+```yaml
 Education:
   - Curso Superior em Cibersegurança
   - Pós-graduação em Cibersegurança
@@ -141,14 +211,26 @@ Certifications:
 
 <div align="center">
 
+# 🌐 CONNECT WITH ME
+
+<a href="https://github.com/Edions1">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📡 CONNECTIVITY STATUS
 
-```bash id="jlwm7l"
+```bash
 > Secure connection established...
 > EDION.exe initialized successfully...
+> Ready for collaboration...
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff99,100:0d1117"/>
 
 </div>
-```
