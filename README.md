@@ -1,17 +1,85 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Edion
+# Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
+
+Meu nome é Edion
 =============================================================================================================================
 
-DevSecOps
----------
+## DevSecOps | Cybersecurity | Infraestrutura | Automação
 
-Minha busca incansável pelo conhecimento me impulsiona a expandir constantemente minha expertise. Atualmente, estou imerso no dinâmico campo da segurança de computadores, onde estou comprometido em aprimorar e fortalecer sistemas com um compromisso inabalável de proteger dados e frustrar ameaças cibernéticas.Eu estudo e procuro me especializar em progamação Python. Python é uma linguagem de programação popular e versátil. A linguagem é amplamente utilizada em ciência de dados, IA e automação. Com bibliotecas poderosas como Pandas, Tensorflow e Django, python permite desenvolver projetos mais rapidamente. Python é fácil de aprender e usar, tornando-o uma escolha popular para iniciantes e profissionais. É amplamente utilizado para automatizar tarefas, desenvolvimento de scripts e jogos. Python é usado também para projetos IoT. É uma escolha forte e estável para se especializar em uma área específica.
+Minha busca constante por conhecimento me impulsiona a evoluir continuamente na área de tecnologia e segurança da informação.
 
-*   🌍 Moro em Brasil
-*   ✉️ Você pode entrar em contato comigo em [nascimentos8989@gmail.com](mailto:nascimentos8989@gmail.com)
-*   🧠 Estou aprendendo VPS ;Docker;Servidores;Mysql;python;firrewall
-*   🤝 Estou aberto a colaborar no projetos ### Habilidades 
- <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-                    
-               
+Atualmente, estou imerso no universo da cibersegurança, com foco no fortalecimento de sistemas, proteção de dados e mitigação de ameaças cibernéticas.
+
+Possuo experiência e aprimoramento em **Redes de Computadores**, infraestrutura Linux, servidores, virtualização e segurança ofensiva e defensiva.
+
+Também possuo **Pós-graduação em Sensoriamento Remoto**, ampliando minha visão analítica e técnica sobre processamento de dados e tecnologia aplicada.
+
+Além disso, busco constante aperfeiçoamento em boas práticas de governança e segurança, incluindo conhecimentos voltados à **ISO/IEC 27001**.
+
+Tenho me especializado em **Python**, utilizando a linguagem para automação, desenvolvimento de scripts, segurança ofensiva, análise de dados e projetos IoT.
+
+---
+
+## 🚀 Atualmente estudando
+
+- Segurança da Informação e DevSecOps
+- VPS, Docker e Infraestrutura Linux
+- Redes de Computadores e Firewalls
+- Python para automação e segurança
+- MySQL e PostgreSQL
+- AWS e Google Cloud
+- Hardening e monitoramento de servidores
+
+---
+
+## 🌎 Informações
+
+- 🌍 Moro no Brasil
+- 🧠 Sempre aprendendo novas tecnologias
+- 🤝 Aberto para colaborar em projetos de tecnologia e segurança
+
+---
+
+## 🛠️ Habilidades
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+</a>
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+</a>
+</p>
+
+---
+
+## 🎓 Formação e Certificações
+
+- Pós-graduação em Sensoriamento Remoto
+- Aprimoramento em Redes de Computadores
+- Conhecimentos em ISO/IEC 27001
+- Estudos contínuos em Segurança da Informação e DevSecOps
