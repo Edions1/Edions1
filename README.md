@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=EDION.exe&fontSize=55&fontAlignY=40&color=0:0d1117,100:00ff99&desc=DevSecOps%20|%20Cybersecurity%20|%20Linux&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=EDION.exe&fontSize=60&fontAlignY=38&color=0:000000,100:00ff99&desc=Cybersecurity%20•%20Geoprocessing%20•%20Satellite%20•%20Maps&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Cybersecurity+Specialist;DevSecOps+Engineer;Linux+Infrastructure;Python+Automation;Cloud+Security;Network+Defense;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=1000&lines=Cybersecurity+Specialist;Geoprocessamento+e+SIG;Infraestrutura+Linux;Python+Automation;Cloud+Security;Satellite+Image+Analysis;Always+Learning..." />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Edions1&color=00ff99&style=flat" />
@@ -14,20 +14,13 @@
 
 ---
 
-<div align="center">
-
-## ⚡ SYSTEM STATUS
-
-</div>
+# 🛰️ SATELLITE_STATUS.sys
 
 ```bash
-> Booting secure environment...
-> Loading infrastructure modules...
-> Initializing DevSecOps matrix...
-> Establishing encrypted connection...
-> Threat monitoring enabled...
-> Firewall status: ACTIVE
-> Monitoring services: ONLINE
+> Initializing geospatial engine...
+> Loading satellite telemetry...
+> Connecting secure infrastructure...
+> Activating cyber defense modules...
 > STATUS: OPERATIONAL
 ```
 
@@ -45,20 +38,18 @@ Focus:
   - DevSecOps
   - Linux Infrastructure
   - Python Automation
+  - Geoprocessamento & SIG
+  - Satellite Image Analysis
   - Cloud Security
-  - Network Defense
 
-Operating_System:
-  - Linux
+Environment:
+  OS: Linux
+  Security: ENABLED
+  Monitoring: ACTIVE
 
 Languages:
   - Python
   - Bash
-
-Status:
-  Learning: ACTIVE
-  Collaboration: ENABLED
-  Security_Mode: ENFORCED
 ```
 
 ---
@@ -70,25 +61,35 @@ Status:
 + Linux Infrastructure
 + Offensive & Defensive Security
 + Python Automation
++ Geospatial Intelligence
++ Satellite Image Analysis
 + Infrastructure Hardening
-+ Monitoring & Observability
-+ Continuous Learning Mindset
++ Continuous Learning
 ```
 
-> Focused on building secure infrastructures and offensive/defensive security environments.
+Atuo na proteção de ambientes, automação de infraestrutura e análise geoespacial utilizando imagens de satélite, mapas e tecnologias voltadas para segurança e monitoramento.
 
-Minha busca constante por conhecimento me impulsiona a evoluir continuamente na área de tecnologia e segurança da informação.
-
-Atualmente, estou focado em:
+Minha área de interesse envolve:
 
 - Segurança ofensiva e defensiva
-- Hardening de servidores Linux
-- DevSecOps
-- Automação com Python
-- Monitoramento de infraestrutura
-- Containers e virtualização
+- Hardening Linux
+- Infraestrutura VPS
+- Geoprocessamento e SIG
+- Python para automação
+- Observabilidade
+- Containers
 - Cloud Security
-- Observabilidade e análise de logs
+- Dados geoespaciais
+
+---
+
+<div align="center">
+
+# 🌎 GEO VISUALIZATION
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
@@ -97,17 +98,15 @@ Atualmente, estou focado em:
 ```bash
 [+] DevSecOps
 [+] Docker & Containers
-[+] VPS Infrastructure
 [+] Linux Hardening
-[+] Python Security Automation
-[+] Firewalls & Networking
-[+] MySQL & PostgreSQL
-[+] Zabbix Monitoring
-[+] Cloud Security
-[+] CI/CD Pipelines
-[+] Reverse Proxy
-[+] SIEM Concepts
+[+] Geoprocessamento & SIG
+[+] Python Automation
 [+] QGIS & ArcGIS
+[+] Satellite Image Processing
+[+] SIEM Concepts
+[+] Cloud Security
+[+] Reverse Proxy
+[+] Threat Monitoring
 ```
 
 ---
@@ -118,25 +117,9 @@ Atualmente, estou focado em:
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode,nginx&theme=dark" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-# 🧠 CYBERSECURITY DOMAINS
-
-| Area | Status |
-|------|------|
-| Linux Hardening | ACTIVE |
-| DevSecOps | ACTIVE |
-| Network Security | ACTIVE |
-| Cloud Security | LEARNING |
-| Threat Monitoring | ACTIVE |
-| Python Automation | ACTIVE |
-| Containers | ACTIVE |
-| Infrastructure Security | ACTIVE |
-| SIEM & Logs | LEARNING |
+<img src="https://skillicons.dev/icons?i=github,gitlab,ubuntu,debian,cloudflare,powershell&theme=dark" />
 
 </div>
 
@@ -146,9 +129,9 @@ Atualmente, estou focado em:
 
 # 📊 GITHUB STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edions1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edions1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edions1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edions1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
 </div>
 
@@ -158,7 +141,7 @@ Atualmente, estou focado em:
 
 # 🔥 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edions1&theme=github-compact&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edions1&theme=github-compact&hide_border=true&bg_color=000000"/>
 
 </div>
 
@@ -166,34 +149,39 @@ Atualmente, estou focado em:
 
 <div align="center">
 
-# ⚙️ ADVANCED METRICS
+# 🛰️ SATELLITE METRICS
 
-<img src="./github-metrics.svg"/>
+<img src="https://metrics.lecoq.io/Edions1?template=terminal&isocalendar=1&languages=1&habits=1&followup=1&topics=1&stars=1&config.timezone=America/Sao_Paulo"/>
 
 </div>
 
 ---
 
-# 🧰 SECURITY TOOLKIT
+# 🧠 CYBERSECURITY_DOMAINS.map
 
-```bash
-[+] Linux
-[+] Docker
-[+] Git
-[+] Python
-[+] Bash
-[+] Nginx
-[+] MySQL
-[+] PostgreSQL
-[+] Zabbix
-[+] SSH
-[+] Firewall
-[+] VPS Infrastructure
+```yaml
+Cybersecurity:
+  - Pentest
+  - Hardening
+  - Threat Monitoring
+  - Infrastructure Security
+
+Geoprocessing:
+  - QGIS
+  - ArcGIS
+  - Raster Analysis
+  - Satellite Images
+
+Infrastructure:
+  - Linux
+  - Docker
+  - VPS
+  - Networking
 ```
 
 ---
 
-# 🎓 EDUCATION & CERTIFICATIONS
+# 🎓 EDUCATION_AND_CERTS.log
 
 ```yaml
 Education:
@@ -211,26 +199,15 @@ Certifications:
 
 <div align="center">
 
-# 🌐 CONNECT WITH ME
-
-<a href="https://github.com/Edions1">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📡 CONNECTIVITY STATUS
+# 🌐 CONNECTIVITY_STATUS
 
 ```bash
-> Secure connection established...
+> Secure satellite link established...
+> Cyber defense modules enabled...
 > EDION.exe initialized successfully...
-> Ready for collaboration...
+> Welcome to my profile...
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff99,100:0d1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,100:000000"/>
 
 </div>
