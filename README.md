@@ -1,181 +1,117 @@
 ````md
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> ACCESS GRANTED — EDION.exe
+<div align="center">
+
+# ⚡ EDION.exe
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=DevSecOps+Engineer;Cybersecurity+Specialist;Linux+Infrastructure;Python+Automation;Cloud+%26+Network+Security" />
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 
 ```bash
-> Booting Secure DevSecOps Environment...
-> Loading Cybersecurity Modules...
-> Initializing Infrastructure Matrix...
-> Connecting to Secure Network...
+> Booting Secure Environment...
+> Loading DevSecOps Modules...
+> Initializing Cybersecurity Matrix...
 > STATUS: ONLINE
 ````
 
-## 🕶️ DevSecOps | Cybersecurity | Linux | Automation
+</div>
+
+---
+
+# 🕶️ SYSTEM PROFILE
 
 ```yaml
-Profile:
-  Name: Edion
-  Alias: EDION.exe
-  Location: Brazil
-  Specialization:
-    - Cybersecurity
-    - DevSecOps
-    - Infrastructure
-    - Python Automation
-    - Cloud Computing
-    - Network Security
+Name: Edion
+Alias: EDION.exe
+Location: Brazil
+Focus:
+  - Cybersecurity
+  - DevSecOps
+  - Linux Infrastructure
+  - Cloud Security
+  - Python Automation
+  - Network Security
 ```
 
 ---
 
-# 💀 SYSTEM PROFILE
-
-```diff
-+ Cybersecurity Enthusiast
-+ DevSecOps Engineer
-+ Linux Infrastructure
-+ Automation Specialist
-+ Continuous Learning Mindset
-```
+# 💀 ABOUT_ME.sys
 
 Minha busca constante por conhecimento me impulsiona a evoluir continuamente na área de tecnologia e segurança da informação.
 
 Atualmente, estou imerso no universo da cibersegurança, focando no fortalecimento de sistemas, proteção de dados e mitigação de ameaças cibernéticas.
 
-Possuo experiência e aprimoramento em:
-
-* Redes de Computadores
-* Infraestrutura Linux
-* Virtualização
-* Segurança ofensiva e defensiva
-* Monitoramento e hardening de servidores
-
-Também possuo:
-
-```yaml
-Academic:
-  - Curso Superior em Cibersegurança
-  - Pós-graduação em Cibersegurança
-  - Pós-graduação em Sensoriamento Remoto
-```
-
-Além disso, busco aperfeiçoamento contínuo em governança e segurança da informação com foco em:
-
-```ini
-[Security Standards]
-ISO/IEC 27001 = ENABLED
-Compliance = ACTIVE
-Risk_Management = TRUE
-```
-
-Especialização em Python para:
-
-```python
-skills = [
-    "Automação",
-    "Scripts",
-    "Cybersecurity",
-    "IoT",
-    "Data Analysis",
-    "Infrastructure"
-]
+```diff
++ Redes de Computadores
++ Infraestrutura Linux
++ Hardening de Servidores
++ Segurança Ofensiva e Defensiva
++ Virtualização
++ Monitoramento de Infraestrutura
 ```
 
 ---
 
-# 🚀 CURRENTLY LEARNING
+# 🚀 CURRENTLY_LEARNING.sh
 
 ```bash
-> Studying...
+[+] DevSecOps
+[+] Docker & Containers
+[+] VPS & Linux Servers
+[+] Firewalls & Networking
+[+] Python Security Automation
+[+] MySQL & PostgreSQL
+[+] Zabbix Monitoring
+[+] QGIS & ArcGIS
 ```
-
-* Segurança da Informação e DevSecOps
-* VPS e Infraestrutura Linux
-* Docker e Containers
-* Redes de Computadores e Firewalls
-* Python para automação e segurança
-* MySQL e PostgreSQL
-* Hardening de Servidores
-* Monitoramento com Zabbix
-* QGIS
-* ArcGIS
 
 ---
 
-# 🌎 USER STATUS
+# 🌐 USER_STATUS
 
 ```yaml
 Status:
   Country: Brazil
   Learning: ACTIVE
   Collaboration: ENABLED
-  Focus_Mode: CYBERSECURITY
+  Mode: CYBERSECURITY
 ```
 
-* 🌍 Moro no Brasil
-* 🧠 Sempre aprendendo novas tecnologias
-* 🤝 Aberto para colaborar em projetos de tecnologia e segurança
+---
+
+# 🛠️ TECH_STACK.dll
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,python,mysql,postgres,docker,linux,aws,gcp,bash,vscode" />
+
+</div>
 
 ---
 
-# 🛠️ TECH STACK
+# 📊 GITHUB_METRICS
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="45" alt="Git"/>
-</a>
-</td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
-<td align="center">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python"/>
-</a>
-</td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 
-<td align="center">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="45" height="45" alt="PostgreSQL"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="45" height="45" alt="AWS"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="45" height="45" alt="Docker"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="45" height="45" alt="Linux"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="45" height="45" alt="Google Cloud"/>
-</a>
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 🎓 EDUCATION & CERTIFICATIONS
+# 🔥 CONTRIBUTION_GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=github-compact&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🎓 EDUCATION_AND_CERTIFICATIONS
 
 ```yaml
 Education:
@@ -191,9 +127,12 @@ Certifications:
 
 ---
 
+# 📡 CONNECTIVITY_STATUS
+
 ```bash
-> Connection secured...
-> EDION.exe loaded successfully.
+> Secure connection established...
+> Threat monitoring enabled...
+> EDION.exe successfully initialized...
 ```
 
 ```
