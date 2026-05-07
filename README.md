@@ -20,15 +20,17 @@
 
 # 🌐 CONNECTIVITY_STATUS
 
+```bash
+> Secure satellite link established...
+> Cyber defense modules enabled...
+> EDION.exe initialized successfully...
+> Welcome to my profile...
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,100:000000"/>
 
 </div>
 
----
-
-<div align="center">
 
 # 🌎 GEO VISUALIZATION
 
