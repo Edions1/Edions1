@@ -33,16 +33,15 @@
 
 ---
 
-# 🛰️ SATELLITE_STATUS.sys
+<div align="center">
 
-```bash
-> Initializing geospatial engine...
-> Loading satellite telemetry...
-> Connecting secure infrastructure...
-> Activating cyber defense modules...
-> STATUS: OPERATIONAL
-```
+# 🌎 GEO VISUALIZATION
 
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
 ---
 
 # 🕶️ PROFILE.yaml
@@ -102,15 +101,7 @@ Minha área de interesse envolve:
 
 ---
 
-<div align="center">
 
-# 🌎 GEO VISUALIZATION
-
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 🚀 CURRENTLY_LEARNING.sh
 
