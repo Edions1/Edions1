@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=EDION.exe&fontSize=60&fontAlignY=38&color=0:000000,100:00ff99&desc=Cybersecurity%20•%20Geoprocessing%20•%20Satellite%20•%20Maps&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="./assets/banner.png"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=1000&lines=Cybersecurity+Specialist;Geoprocessamento+e+SIG;Infraestrutura+Linux;Python+Automation;Cloud+Security;Satellite+Image+Analysis;Always+Learning..." />
 
