@@ -1,6 +1,30 @@
-# Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
+````md
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> ACCESS GRANTED — EDION.exe
+
+```bash
+> Initializing DevSecOps Interface...
+> Loading Cybersecurity Modules...
+> Establishing Secure Connection...
+> STATUS: ONLINE
+```
+
+## 🕶️ DevSecOps | Cybersecurity | Linux | Automation
+
+```yaml
+Profile:
+  Name: Edion
+  Location: Brazil
+  Focus:
+    - Cybersecurity
+    - DevSecOps
+    - Infrastructure
+    - Python Automation
+    - Cloud Computing
+```
 
 Meu nome é Edion
+````
+
 =============================================================================================================================
 
 ## DevSecOps | Cybersecurity | Infraestrutura | Automação
@@ -26,8 +50,10 @@ Tenho me especializado em **Python**, utilizando a linguagem para automação, d
 - Redes de Computadores e Firewalls
 - Python para automação e segurança
 - MySQL e PostgreSQL
-- AWS e Google Cloud
 - Hardening e monitoramento de servidores
+- Zabbix
+- Qgis
+- ArcGis
 
 ---
 
@@ -97,7 +123,8 @@ Tenho me especializado em **Python**, utilizando a linguagem para automação, d
 
 ## 🎓 Formação e Certificações
 
+- Curso superior em Cibersegurança
+- Pós-graduação em Cibersegurança
 - Pós-graduação em Sensoriamento Remoto
 - Aprimoramento em Redes de Computadores
-- Conhecimentos em ISO/IEC 27001
-- Estudos contínuos em Segurança da Informação e DevSecOps
+- Certificado pela EXIN em ISO/IEC 27001
