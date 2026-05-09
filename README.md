@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png"/>
+<img width="100%" src="./assets/1_banner.png"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=1000&lines=Cybersecurity+Specialist;Geoprocessamento+e+SIG;Infraestrutura+Linux;Python+Automation;Cloud+Security;Satellite+Image+Analysis;Always+Learning..." />
 
@@ -69,6 +69,15 @@ Languages:
 
 ---
 
+<div align="center">
+
+<img width="49%" src="./assets/2_conhecimento.png"/>
+<img width="49%" src="./assets/2_1_educacao.png"/>
+
+</div>
+
+---
+
 # 💀 ABOUT_ME.sys
 
 ```diff
@@ -122,6 +131,10 @@ Minha área de interesse envolve:
 
 # 🛠️ TECH STACK
 
+<img width="100%" src="./assets/3_pilha de tecnologia.png"/>
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode,nginx&theme=dark" />
 
 <br><br>
@@ -148,7 +161,7 @@ Minha área de interesse envolve:
 
 # 🔥 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edions1&theme=github-compact&hide_border=true&bg_color=000000"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edions1&theme=github-compact&hide_border=true&bg_color=000000"/>
 
 </div>
 
@@ -158,7 +171,7 @@ Minha área de interesse envolve:
 
 # 🛰️ SATELLITE METRICS
 
-<img src="https://metrics.lecoq.io/Edions1?template=terminal&isocalendar=1&languages=1&habits=1&followup=1&topics=1&stars=1&config.timezone=America/Sao_Paulo"/>
+<img width="100%" src="https://metrics.lecoq.io/Edions1?template=terminal&isocalendar=1&languages=1&habits=1&followup=1&topics=1&stars=1&config.timezone=America/Sao_Paulo"/>
 
 </div>
 
