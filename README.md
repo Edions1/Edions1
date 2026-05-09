@@ -19,9 +19,11 @@
 
 <img width="100%" src="./assets/3_pilha de tecnologia.png"/>
 
+<div align="center">
 
-<img width="47%" src="./assets/2_conhecimento.png"/>
-<img width="47%" src="./assets/2_1_educacao.png"/>
+
+<img width="49%" src="./assets/2_conhecimento.png"/>
+<img width="49%" src="./assets/2_1_educacao.png"/>
 
 
 
