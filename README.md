@@ -14,15 +14,14 @@
 
 <img width="100%" src="./assets/3_pilha de tecnologia.png"/>
 
-<img width="49%" src="./assets/2_conhecimento.png"/>
-<img width="49%" src="./assets/2_1_educacao.png"/>
-
-
-# 🌐 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,100:000000"/>
 
 </div>
+
+<img width="49%" src="./assets/2_conhecimento.png"/>
+<img width="49%" src="./assets/2_1_educacao.png"/>
+
 
 
 # 🌎 GEO VISUALIZATION
