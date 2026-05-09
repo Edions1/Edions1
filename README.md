@@ -18,6 +18,34 @@
 
 <div align="center">
 
+
+
+<div align="center">
+
+<img width="49%" src="./assets/2_conhecimento.png"/>
+<img width="49%" src="./assets/2_1_educacao.png"/>
+
+</div>
+
+
+<div align="center">
+
+# 🛠️ TECH STACKK
+
+<img width="100%" src="./assets/3_pilha de tecnologia.png"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode,nginx&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github,gitlab,ubuntu,debian,cloudflare,powershell&theme=dark" />
+
+</div>
+
+
+
 # 🌐 CONNECTIVITY_STATUS
 
 ```bash
@@ -69,15 +97,6 @@ Languages:
 
 ---
 
-<div align="center">
-
-<img width="49%" src="./assets/2_conhecimento.png"/>
-<img width="49%" src="./assets/2_1_educacao.png"/>
-
-</div>
-
----
-
 # 💀 ABOUT_ME.sys
 
 ```diff
@@ -125,23 +144,6 @@ Minha área de interesse envolve:
 [+] Threat Monitoring
 ```
 
----
-
-<div align="center">
-
-# 🛠️ TECH STACK
-
-<img width="100%" src="./assets/3_pilha de tecnologia.png"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode,nginx&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=github,gitlab,ubuntu,debian,cloudflare,powershell&theme=dark" />
-
-</div>
 
 ---
 
