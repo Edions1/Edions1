@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assets/1_banner.png"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=1000&lines=Cybersecurity+Specialist;Geoprocessamento+e+SIG;Infraestrutura+Linux;Python+Automation;Cloud+Security;Satellite+Image+Analysis;Always+Learning..." />
 
 <p align="center">
@@ -12,8 +10,7 @@
 
 </div>
 
-
-<div align="center">
+<img width="100%" src="./assets/1_banner.png"/>
 
 <img width="49%" src="./assets/2_conhecimento.png"/>
 <img width="49%" src="./assets/2_1_educacao.png"/>
