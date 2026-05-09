@@ -13,13 +13,6 @@
 </div>
 
 
-
-
-
-<div align="center">
-
-
-
 <div align="center">
 
 <img width="49%" src="./assets/2_conhecimento.png"/>
@@ -27,10 +20,6 @@
 
 </div>
 
-
-<div align="center">
-
-# 🛠️ TECH STACKK
 
 <img width="100%" src="./assets/3_pilha de tecnologia.png"/>
 
