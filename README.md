@@ -12,36 +12,13 @@
 
 <img width="100%" src="./assets/1_banner.png"/>
 
-<div align="center">
+<img width="100%" src="./assets/3_pilha de tecnologia.png"/>
 
 <img width="49%" src="./assets/2_conhecimento.png"/>
 <img width="49%" src="./assets/2_1_educacao.png"/>
 
-</div>
 
-
-<img width="100%" src="./assets/3_pilha de tecnologia.png"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres,aws,gcp,vscode,nginx&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=github,gitlab,ubuntu,debian,cloudflare,powershell&theme=dark" />
-
-</div>
-
-
-
-# 🌐 CONNECTIVITY_STATUS
-
-```bash
-> Secure satellite link established...
-> Cyber defense modules enabled...
-> EDION.exe initialized successfully...
-> Welcome to my profile...
-```
+# 🌐 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,100:000000"/>
 
