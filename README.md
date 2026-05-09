@@ -12,6 +12,8 @@
 
 <img width="100%" src="./assets/1_banner.png"/>
 
+<div align="center">
+
 <img width="49%" src="./assets/2_conhecimento.png"/>
 <img width="49%" src="./assets/2_1_educacao.png"/>
 
